@@ -52,7 +52,7 @@
 <section class="av_textblock_section av-62xb6-8d874a245795278c7602a0b8820d07d4" itemscope="itemscope" itemtype="https://schema.org/CreativeWork"><div class="avia_textblock" itemprop="text"><ul>
 <li>Painting and decorating specialist</li>
 <li>All forms of wall painting</li>
-<li>Ceilings</li>
+<li> all types ceilings</li>
 <li>All aspects of paper hanging</li>
 <li>Wood work including doors, door frames &amp; skirting boards</li>
 </ul>
