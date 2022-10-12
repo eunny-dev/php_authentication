@@ -87,7 +87,7 @@ include('header.php');
           </div>
         </div>
 
-        
+
         <br>
         <hr>
         <p>+2547 285 1794 (tel)</p>
@@ -143,4 +143,5 @@ include('header.php');
 
 <?php include("floatbar.php") ?>
 <?php include("footer.php") ?>
+
 </html>
