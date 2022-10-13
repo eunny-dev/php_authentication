@@ -1,39 +1,20 @@
 <!DOCTYPE html>
-<html>
-
-<head>
-  <title></title>
-  <!--bootstrap link-->
-  <meta name="viewport" content="width=device-width, initial-scale=1">
-  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.1/dist/css/bootstrap.min.css" rel="stylesheet">
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.1/dist/css/bootstrap.min.css" rel="stylesheet">
   <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.1/dist/js/bootstrap.bundle.min.js"></script>
+    <title>Bootstrap Portfolio Page Template</title>
 
-  <link rel="stylesheet" type="text/css" href="my.css">
-  <!-- end of bootstrap link-->
-
-  <meta name="viewport" content="width=device-width, initial-scale=1">
-
-  <style>
-    #btn-back-to-top {
-      position: fixed;
-      bottom: 20px;
-      right: 20px;
-      display: none;
-    }
-  </style>
-</head>
-
-<body>
-
-  <!-- navigation bar <!-->
+    Bootstrap
+    <link href="css/bootstrap-4.4.1.css" rel="stylesheet">
+  </head>
+  <body>
   <?php include("nav.php") ?>
-
-  <!-- end of navigation bar <!-->
-
-  </div>
-  </nav>
-  <section>
-    <div class="mt-4 p-5 bg-primary  rounded" style="text-align: center;">
+    <section>
+    <div class="mt-4 p-5 bg-primary text-white rounded">
         <div class="container">
           <div class="row">
             <div class="col-12">
@@ -46,9 +27,17 @@
         </div>
       </div>
     </section>
-    <br>
-   
-
+    <section>
+      <div class="container">
+        <div class="row">
+          <div class="col-12 text-center">
+            <h1>Ohanga N Decor</h1>
+            <p>the best decor service providers in town....</p>
+            <p>call toady and get the best and see the value of your money!!!!!!</p>
+          </div>
+        </div>
+      </div>
+    </section>
     <section>
       <div class="container mt-2">
         <div class="row">
@@ -121,23 +110,62 @@
       </div>
     </section>
     <hr>
-    <hr>
     <section>
       <div class="container">
         <div class="row">
           <div class="col-12 text-center">
             <h1>Make your home beautiful today with ohanga Decor&nbsp;&nbsp;</h1>
-            <p>call text chat us today.</p>
-            <button type="button" class="btn btn-success" onclick="window.location.href='contacts.php'">  Get in touch</button>
+            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quibusdam, magni, doloribus, possimus eum sapiente deleniti doloremque fugit ut expedita molestiae iusto debitis eveniet modi obcaecati ipsam quos quis labore dicta.</p>
+            <button type="button" class="btn btn-success">Get in touch</button>
           </div>
         </div>
       </div>
     </section>
     <hr>
-  <?php include("floatbar.php") ?>
-
-
-  <?php include("footer.php") ?>
-</body>
-
+    <div class="section">
+      <div class="container">
+        <div class="row">
+          <div class="col-md-4 col-12">
+            <h3 class="text-center">WHO WE ARE</h3>
+            <p>Ohanga N Decor is adecor company based in nairobi and specialises in doing decors from contemporary to coporate to homes&nbsp;</p>
+          </div>
+          <div class="col-md-4 col-12">
+            <h3 class="text-center">GET IN TOUCH</h3>
+            <address class="text-center">
+              <strong>Ohanga N Decor, Inc.</strong><br>
+              NRB CBD<br>
+              info@eunnydev.co.ke              <br>
+            <u>+254743088527</u>
+            </address>
+          </div>
+          <div class="col-md-4 col-12">
+            <h3 class="text-center">NEWSLETTER</h3>
+            <form>
+              <div class="form-group col-12">
+                <input type="email" class="form-control" id="exampleInputEmail1" placeholder="Enter email">
+                <button type="submit" class="btn btn-dark mt-2">Subscribe</button>
+              </div>
+            </form>
+          </div>
+        </div>
+      </div>
+    </div>
+    <hr>
+    <footer class="text-center">
+      <div class="container">
+        <div class="row">
+          <div class="col-12">
+            <p>Copyright © Ohanga N Decor. All rights reserved.</p>
+          </div>
+        </div>
+      </div>
+    </footer>
+    <?php include("floatbar.php") ?>
+    <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
+    <script src="js/jquery-3.4.1.min.js"></script>
+    <!-- Include all compiled plugins (below), or include individual files as needed -->
+    <script src="js/popper.min.js"></script>
+    <script src="js/bootstrap-4.4.1.js"></script>
+   
+  </body>
 </html>
