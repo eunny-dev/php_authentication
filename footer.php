@@ -14,7 +14,7 @@
     /* Horizontal Space */
     margin-bottom: 30px;
     /* Vertical Space */
-    border: 2px solid red;
+    border: 2px ;
   }
 </style>
 

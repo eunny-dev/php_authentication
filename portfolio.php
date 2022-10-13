@@ -55,7 +55,7 @@
           <div class="col-md-4 col-12">
             <ul class="list-unstyled">
               <li class="media">
-                <img class="mr-3" src="images/35X35.gif" alt="Generic placeholder image">
+                <img class="mr-3" src="web/mp1.jpg" width="50px" height="50px">
                 <div class="media-body">
                   <h5 class="mt-0 mb-1">List-based media object</h5>
                 contact us onthe platforms listed on the right side of the page</div>
@@ -65,7 +65,7 @@
           <div class="col-md-4 col-12">
             <ul class="list-unstyled">
               <li class="media">
-                <img class="mr-3" src="images/35X35.gif" alt="Generic placeholder image">
+                <img class="mr-3" src="web/mp.jpg" width="50px" height="50px">
                 <div class="media-body">
                   <h5 class="mt-0 mb-1">List-based media object</h5>
                 you can each us on whatsapp or phone call&nbsp; </div>
@@ -75,7 +75,7 @@
           <div class="col-md-4 col-12">
             <ul class="list-unstyled">
               <li class="media">
-                <img class="mr-3" src="images/35X35.gif" alt="Generic placeholder image">
+                <img class="mr-3" src="web/mp1.jpg" width="50px" height="50px" >
                 <div class="media-body">
                   <h5 class="mt-0 mb-1">List-based media object</h5>
                 also availabe on linked in and email with quick response </div>
