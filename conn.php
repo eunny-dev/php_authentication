@@ -13,6 +13,7 @@ if (!$conn) {
 
 	//echo"Database connected successfully";
 
+	
 	// get the post records
 	$txtName = $_POST['name'];
 	$txtPhone = $_POST['number'];
