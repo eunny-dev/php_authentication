@@ -33,6 +33,9 @@
   <?php include("nav.php") ?>
 
   <!-- end of navigation bar <!-->
+  <div class="card">
+  <div class="card-header" style=" align-content :center"><h1>Ohanga Decor Services</h1></div>
+
   <br><br>
 
   <div class="container-fluid">

@@ -81,6 +81,9 @@
 
 
   <?php include("floatbar.php") ?>
+  <div class="card">
+  <div class="card-header" style=" align-content :center"><h1>Gallary</h1></div>
+
 
   <?php include("footer.php") ?>
 </body>

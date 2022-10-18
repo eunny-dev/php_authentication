@@ -22,6 +22,9 @@
 <body>
 
   <?php include("nav.php") ?>
+  <div class="card">
+  <div class="card-header" style=" align-content :center"><h1>Home Ohanga Decor</h1></div>
+
 
 
   <!-- Start WOWSlider.com BODY section -->

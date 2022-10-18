@@ -74,6 +74,8 @@
 
   <!-- navigation bar <!-->
   <?php include("nav.php") ?>
+  <div class="card">
+  <div class="card-header" style=" align-content :center"><h1>About Ohanga Decor</h1></div>
 
   <br>
 

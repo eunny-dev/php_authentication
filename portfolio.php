@@ -30,7 +30,9 @@
 
   <!-- end of navigation bar <!-->
 
-  </div>
+  </div><div class="card">
+  <div class="card-header" style=" align-content :center"><h1>Portfolio</h1></div>
+
   </nav>
   <section>
     <div class="mt-4 p-5 bg-primary  rounded" style="text-align: center;">
